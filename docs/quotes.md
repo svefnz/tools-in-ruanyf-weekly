@@ -1,5 +1,39 @@
 # 言论
 
+## [科技爱好者周刊（第 383 期）：你是第几级 AI 编程](https://github.com/ruanyf/weekly/blob/master/docs/issue-383.md#言论)
+
+
+1、
+
+大多数组织习惯于收到系统警报后，直接质问：“是谁刚刚发布了代码变更？” 人们认定合并代码的人肯定了解它的工作原理，并且能够迅速修复问题。
+
+如果你部署的代码既不是某个人写的，也没有人真正理解它，会发生什么？
+
+-- [《二十年的 DevOps 实践》](https://www.honeycomb.io/blog/you-had-one-job-why-twenty-years-of-devops-has-failed-to-do-it)
+
+2、
+
+JavaDoc 之类的工具，可以从代码直接生成文档。我觉得，这种自动生成的文档，价值并不大，未必比直接阅读源代码容易。
+
+没有什么可以替代手写的、有组织的和人工编辑的文档。
+
+-- [《什么是好的文档，以及如何编写》](https://stevelosh.com/blog/2013/09/teach-dont-tell/)
+
+3、
+
+你学过的、使用过的每种语言和技术，即使会过时，也是有价值的，它们都会让下一种语言或技术更容易学习。
+
+-- [《他们骗了你，开发软件真的很难》](https://toddle.dev/blog/they-lied-to-you-building-software-is-really-hard)
+
+4、
+
+习惯了 AI 编程之后，有一天，我震惊地发现，自己竟然如此轻易地掉进了陷阱。
+
+我已经变得对自己的代码库一无所知，也懒得自己去修复。只要用上了 AI，我就心情愉快，AI 让我感觉自己更聪明、更高效、掌控一切。一旦离开了 AI，我才发现这一切都只是幻觉。
+
+-- [《有了 AI，我变得懒惰和愚蠢》](https://thomasorus.com/i-tried-coding-with-ai-i-became-lazy-and-stupid)
+
+
 ## [科技爱好者周刊（第 382 期）：独立软件的黄昏](https://github.com/ruanyf/weekly/blob/master/docs/issue-382.md#言论)
 
 

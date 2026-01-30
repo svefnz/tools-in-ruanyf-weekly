@@ -1,5 +1,67 @@
 # 工具
 
+## [科技爱好者周刊（第 383 期）：你是第几级 AI 编程](https://github.com/ruanyf/weekly/blob/master/docs/issue-383.md#工具)
+
+
+1、[teemux](https://github.com/gajus/teemux)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012503.webp)
+
+一个基于 JS 语言的命令行工具，将多个进程输出的日志放在一处查看，可以命令行查看，也可以浏览器查看。
+
+2、[daedalOS](https://github.com/DustinBrett/daedalOS)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052602.webp)
+
+浏览器里面的虚拟桌面环境，代码开源。
+
+3、[Dendron](https://www.dendron.so/)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052633.webp)
+
+VS Code 的笔记插件，将笔记的层级结构当作目录，并支持图表和内部链接，参见[介绍文章](https://www.xda-developers.com/how-i-use-dendron-to-organize-project-documentation-across-devices/)。
+
+4、[CWD](https://github.com/anghunk/cwd)（Cloudflare Workers Discuss）
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012307.webp)
+
+基于 Cloudflare Workers 的网站评论系统。（[@anghunk](https://github.com/ruanyf/weekly/issues/8801) 投稿）
+
+5、[Mouse Gestures](https://github.com/Chance-fyi/mouse-gestures)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012304.webp)
+
+开源的 Chrome 浏览器插件，使用鼠标滑动轨迹，完成各种浏览器操作。（[@Chance-fyi](https://github.com/ruanyf/weekly/issues/8779) 投稿）
+
+6、[relationship-ts](https://github.com/ExploringTheCodeWorld/relationship-ts)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012306.webp)
+
+一个 JS/TS 库，用来计算中国亲戚关系（称谓），[Demo 试用](https://example.qinyimo.cn/)。（[@ExploringTheCodeWorld](https://github.com/ruanyf/weekly/issues/8792) 投稿）
+
+7、[Deck](https://github.com/yuzeguitarist/Deck)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012403.webp)
+
+macOS 剪贴板管理的开源桌面应用，特点是有 Touch ID 保护和端到端加密。（[@yuzeguitarist](https://github.com/ruanyf/weekly/issues/8809) 投稿）
+
+8、[EdgeTunnel](https://github.com/tianrking/Re_edgetunnel) (Refactored)
+
+一个部署在 Cloudflare Workers 的隧道方案，代码进行了重构。（[@tianrking](https://github.com/ruanyf/weekly/issues/8828) 投稿）
+
+9、[Mail Studio](https://github.com/wzc520pyfm/mail-studio)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012816.webp)
+
+开源的可视化邮件编辑器，通过拖拽组件，生成响应式邮件模板，试用 [Demo](https://mail-studio-black.vercel.app/)。（[@wzc520pyfm](https://github.com/ruanyf/weekly/issues/8851) 投稿）
+
+10、[TermClean](https://github.com/daijinhai/TermClean)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012815.webp)
+
+macOS 开源应用，在终端界面显示各种软件包占用的磁盘空间，并提供清除软件包功能。（[@daijinhai](https://github.com/ruanyf/weekly/issues/8852) 投稿）
+
+
 ## [科技爱好者周刊（第 382 期）：独立软件的黄昏](https://github.com/ruanyf/weekly/blob/master/docs/issue-382.md#工具)
 
 

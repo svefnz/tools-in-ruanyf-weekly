@@ -1,5 +1,39 @@
 # 资源
 
+## [科技爱好者周刊（第 383 期）：你是第几级 AI 编程](https://github.com/ruanyf/weekly/blob/master/docs/issue-383.md#资源)
+
+
+1、[Claude Code 实战](https://anthropic.skilljar.com/claude-code-in-action)（Claude Code in Action）
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012401.webp)
+
+Anthropic 官方的 Claude Code 免费入门教程，一共15节视频课，总长约1小时。
+
+2、[GitHub 证书](https://certificate.brendonmatos.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012303.webp)
+
+这个网站可以将某个用户2025年的 GitHub 活动，变成一张证书样式的图片。
+
+3、[Fontsniff](https://fontsniff.com/zh/font-identification)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012502.webp)
+
+上传文本图片，自动识别使用了什么字体。（[@cosmicqbit](https://github.com/ruanyf/weekly/issues/8822) 投稿）
+
+4、[Future Style Periodic Table](https://github.com/SeanWong17/Future-Style-Periodic-Table)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012405.webp)
+
+开源的可视化元素周期表，会展示核外电子排布。（[@SeanWong17](https://github.com/ruanyf/weekly/issues/8816) 投稿）
+
+5、[nihongo](https://yarn.gonomad.cn/assets/word.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012404.webp)
+
+免费的日语学习平台，有词汇、听力、文章等。（[@FrankZhai367](https://github.com/ruanyf/weekly/issues/8811) 投稿）
+
+
 ## [科技爱好者周刊（第 382 期）：独立软件的黄昏](https://github.com/ruanyf/weekly/blob/master/docs/issue-382.md#资源)
 
 

@@ -16,101 +16,103 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>382</currentVersion> -->
+<!-- <currentVersion>383</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 382 期）：独立软件的黄昏](https://github.com/ruanyf/weekly/blob/master/docs/issue-382.md)
+# [科技爱好者周刊（第 383 期）：你是第几级 AI 编程](https://github.com/ruanyf/weekly/blob/master/docs/issue-383.md)
 ### 工具
 
 
-1、[GoRead](https://github.com/zhashut/goread)
+1、[teemux](https://github.com/gajus/teemux)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011704.webp)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012503.webp)
 
-开源的电子书阅读器应用，支持桌面与移动端（Android/iOS）。（[@zhashut](https://github.com/ruanyf/weekly/issues/8732) 投稿）
+一个基于 JS 语言的命令行工具，将多个进程输出的日志放在一处查看，可以命令行查看，也可以浏览器查看。
 
-2、[EasyPostman](https://github.com/lakernote/EasyPostman)
+2、[daedalOS](https://github.com/DustinBrett/daedalOS)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011705.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052602.webp)
 
-用于 API 调试的跨平台桌面应用，对标 Postman + JMeter。（[@lakernote](https://github.com/ruanyf/weekly/issues/8733) 投稿）
+浏览器里面的虚拟桌面环境，代码开源。
 
-3、[Port Sentinel](https://github.com/Sanjeever/port_sentinel)（端口哨兵）
+3、[Dendron](https://www.dendron.so/)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011706.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052633.webp)
 
-Windows 桌面应用，查看端口占用情况。（[@Sanjeever](https://github.com/ruanyf/weekly/issues/8721) 投稿）
+VS Code 的笔记插件，将笔记的层级结构当作目录，并支持图表和内部链接，参见[介绍文章](https://www.xda-developers.com/how-i-use-dendron-to-organize-project-documentation-across-devices/)。
 
-4、[Building Sunlight Simulator](https://github.com/SeanWong17/building-sunlight-simulator)
+4、[CWD](https://github.com/anghunk/cwd)（Cloudflare Workers Discuss）
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011901.webp)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012307.webp)
 
-基于 Web 的楼盘采光 3D 日照模拟工具，帮助购房者评估小区采光。（[@SeanWong17](https://github.com/ruanyf/weekly/issues/8744) 投稿）
+基于 Cloudflare Workers 的网站评论系统。（[@anghunk](https://github.com/ruanyf/weekly/issues/8801) 投稿）
 
-5、[Office App](https://github.com/baotlake/office-website)
+5、[Mouse Gestures](https://github.com/Chance-fyi/mouse-gestures)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012001.webp)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012304.webp)
 
-一个纯本地的 Office 网页应用，可以离线在网页创建/编辑 Word、Excel、PowerPoint 文件。（[@baotlake](https://github.com/ruanyf/weekly/issues/8757) 投稿）
+开源的 Chrome 浏览器插件，使用鼠标滑动轨迹，完成各种浏览器操作。（[@Chance-fyi](https://github.com/ruanyf/weekly/issues/8779) 投稿）
 
-6、[ScreenshotSnap](https://screenshotsnap.com/)
+6、[relationship-ts](https://github.com/ExploringTheCodeWorld/relationship-ts)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011902.webp)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012306.webp)
 
-免费的网站截屏在线工具，提供 API，可以直接将截图代码插入网页。（[@phpiscute](https://github.com/ruanyf/weekly/issues/8746) 投稿）
+一个 JS/TS 库，用来计算中国亲戚关系（称谓），[Demo 试用](https://example.qinyimo.cn/)。（[@ExploringTheCodeWorld](https://github.com/ruanyf/weekly/issues/8792) 投稿）
 
-7、[tsshd](https://github.com/trzsz/tsshd)
+7、[Deck](https://github.com/yuzeguitarist/Deck)
 
-SSH 服务器登录协议的全新实现，特点是连接不掉线，可以重连前一个对话。（[@lonnywong](https://github.com/ruanyf/weekly/issues/8751) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012403.webp)
 
-8、[AirScan-QR](https://github.com/topcss/AirScan-QR)
+macOS 剪贴板管理的开源桌面应用，特点是有 Touch ID 保护和端到端加密。（[@yuzeguitarist](https://github.com/ruanyf/weekly/issues/8809) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012002.webp)
+8、[EdgeTunnel](https://github.com/tianrking/Re_edgetunnel) (Refactored)
 
-一个开源网页应用，通过动态二维码发送/接收文件。（[@topcss](https://github.com/ruanyf/weekly/issues/8758) 投稿）
+一个部署在 Cloudflare Workers 的隧道方案，代码进行了重构。（[@tianrking](https://github.com/ruanyf/weekly/issues/8828) 投稿）
 
-9、[LuCI Bandix](https://github.com/ruanyf/weekly/issues/8761)
+9、[Mail Studio](https://github.com/wzc520pyfm/mail-studio)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012005.webp)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012816.webp)
 
-开源路由器操作系统 OpenWRT 的一个插件，可以监控局域网各设备的实时流量和目的地。（[@timsaya](https://github.com/ruanyf/weekly/issues/8761) 投稿）
+开源的可视化邮件编辑器，通过拖拽组件，生成响应式邮件模板，试用 [Demo](https://mail-studio-black.vercel.app/)。（[@wzc520pyfm](https://github.com/ruanyf/weekly/issues/8851) 投稿）
 
-10、[pure-genealogy](https://github.com/yunfengsa/pure-genealogy)
+10、[TermClean](https://github.com/daijinhai/TermClean)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012104.webp)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012815.webp)
 
-开源的网页族谱工具，用来生成家族族谱，基于 Next.js + Supabase。（[@yunfengsa](https://github.com/ruanyf/weekly/issues/8768) 投稿）
-
-11、[mdto.page](https://mdto.page/)
-
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011708.webp)
-
-这个网站免费将 Markdown 文件转成 HTML 格式，发布成公开访问的网页。
+macOS 开源应用，在终端界面显示各种软件包占用的磁盘空间，并提供清除软件包功能。（[@daijinhai](https://github.com/ruanyf/weekly/issues/8852) 投稿）
 
 
 ### 资源
 
 
-1、[维基百科25周年](https://wikipedia25.org/en/the-first-day)
+1、[Claude Code 实战](https://anthropic.skilljar.com/claude-code-in-action)（Claude Code in Action）
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011604.webp)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012401.webp)
 
-维基百科是2001年1月13日上线的，今年是25周年纪念。这个网站是官方的纪念网站，以互动形式展示了发展历程。
+Anthropic 官方的 Claude Code 免费入门教程，一共15节视频课，总长约1小时。
 
-另外，还有一篇文章，介绍[互联网档案馆的历史](https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting)（下图）。
+2、[GitHub 证书](https://certificate.brendonmatos.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011605.webp)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012303.webp)
 
-2、[HTTP:COLON](https://httpcolon.dev/)
+这个网站可以将某个用户2025年的 GitHub 活动，变成一张证书样式的图片。
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012004.webp)
+3、[Fontsniff](https://fontsniff.com/zh/font-identification)
 
-这个网页可以查看指定网站返回的 HTTP 标头，详细解释每个字段的含义。
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012502.webp)
 
-3、[现代 Java](https://github.com/Together-Java/ModernJava)（Modern Java）
+上传文本图片，自动识别使用了什么字体。（[@cosmicqbit](https://github.com/ruanyf/weekly/issues/8822) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011601.webp)
+4、[Future Style Periodic Table](https://github.com/SeanWong17/Future-Style-Periodic-Table)
 
-面向初学者的 Java 语言教程。
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012405.webp)
+
+开源的可视化元素周期表，会展示核外电子排布。（[@SeanWong17](https://github.com/ruanyf/weekly/issues/8816) 投稿）
+
+5、[nihongo](https://yarn.gonomad.cn/assets/word.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012404.webp)
+
+免费的日语学习平台，有词汇、听力、文章等。（[@FrankZhai367](https://github.com/ruanyf/weekly/issues/8811) 投稿）
 
 
 ### 言论
@@ -118,35 +120,33 @@ SSH 服务器登录协议的全新实现，特点是连接不掉线，可以重�
 
 1、
 
-AGI（通用人工智能）中的 A 代表广告（advertisement）。
+大多数组织习惯于收到系统警报后，直接质问：“是谁刚刚发布了代码变更？” 人们认定合并代码的人肯定了解它的工作原理，并且能够迅速修复问题。
 
--- [一位程序员](https://ossa-ma.github.io/blog/openads)评论 OpenAI 宣布在 AI 对话中加入广告
+如果你部署的代码既不是某个人写的，也没有人真正理解它，会发生什么？
+
+-- [《二十年的 DevOps 实践》](https://www.honeycomb.io/blog/you-had-one-job-why-twenty-years-of-devops-has-failed-to-do-it)
 
 2、
 
-Netflix 的电影不追求视觉效果，因为大多数观众是在手机、平板和笔记本电脑上看，内容不需要为大银幕制作、而是为小屏幕制作的。
+JavaDoc 之类的工具，可以从代码直接生成文档。我觉得，这种自动生成的文档，价值并不大，未必比直接阅读源代码容易。
 
--- [马特·达蒙](https://x.com/nexta_tv/status/2012595777831678142)，美国著名演员
+没有什么可以替代手写的、有组织的和人工编辑的文档。
+
+-- [《什么是好的文档，以及如何编写》](https://stevelosh.com/blog/2013/09/teach-dont-tell/)
 
 3、
 
-我从未见过哪个群体比程序员更热衷于分享知识。其他行业都是严守知识、保守秘密，程序员则是免费提供源代码、书籍、博客文章、演示文稿、视频教程等等。
+你学过的、使用过的每种语言和技术，即使会过时，也是有价值的，它们都会让下一种语言或技术更容易学习。
 
-编程领域没有什么神圣不可侵犯的东西。如果你想学习，你可以找到免费书籍、完整的源代码、论坛、聊天室、邮件列表、线下聚会、博客文章、视频讲座、教程以及你可能需要的一切资源。尽管举手，总会有人乐于助人，倾囊相授。
-
--- [《我是如何学习所有编程知识的》](https://agentultra.com/blog/how-i-learned-everything-i-know/index.html)
+-- [《他们骗了你，开发软件真的很难》](https://toddle.dev/blog/they-lied-to-you-building-software-is-really-hard)
 
 4、
 
-今年的 iOS 26 中，一些 UI 元素利用 HDR 屏幕，采用高光，比纯白色更亮。如果你曾经在 iPhone（或其他任何支持 HDR 的屏幕）上看过 HDR 照片，然后再看看以 SDR 模式显示的 UI，你就会知道它看起来有多么灰暗黯淡。
+习惯了 AI 编程之后，有一天，我震惊地发现，自己竟然如此轻易地掉进了陷阱。
 
--- [《亮模式的膨胀》](https://willhbr.net/2025/10/20/light-mode-infffffflation/)，作者发现 iOS 每年都变得更亮，容易产生视觉疲劳，让他不得不使用暗模式
+我已经变得对自己的代码库一无所知，也懒得自己去修复。只要用上了 AI，我就心情愉快，AI 让我感觉自己更聪明、更高效、掌控一切。一旦离开了 AI，我才发现这一切都只是幻觉。
 
-5、
-
-如果你想批评大型组织的运作方式，首先要了解它们为何如此运作。否则，批评会显得尖锐，但却毫无意义。
-
--- [《关于大型软件公司的常见误解》](https://philipotoole.com/common-misunderstandings-about-large-software-companies/)
+-- [《有了 AI，我变得懒惰和愚蠢》](https://thomasorus.com/i-tried-coding-with-ai-i-became-lazy-and-stupid)
 
 
 <!-- End -->
