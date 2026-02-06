@@ -16,103 +16,81 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>383</currentVersion> -->
+<!-- <currentVersion>384</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 383 期）：你是第几级 AI 编程](https://github.com/ruanyf/weekly/blob/master/docs/issue-383.md)
+# [科技爱好者周刊（第 384 期）：为什么软件股下跌](https://github.com/ruanyf/weekly/blob/master/docs/issue-384.md)
 ### 工具
 
 
-1、[teemux](https://github.com/gajus/teemux)
+1、[Calibre](https://calibre-ebook.com/new-in/eighteen)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012503.webp)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026013004.webp)
 
-一个基于 JS 语言的命令行工具，将多个进程输出的日志放在一处查看，可以命令行查看，也可以浏览器查看。
+老牌的电子书管理系统，本周发布了9.0版，增加了书架视图，并引入了 AI 功能。
 
-2、[daedalOS](https://github.com/DustinBrett/daedalOS)
+2、[Gadgetbridge](https://gadgetbridge.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052602.webp)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026013005.webp)
 
-浏览器里面的虚拟桌面环境，代码开源。
+开源的安卓应用，无需官方应用即可配对和管理各种智能设备（手表、手环、耳机等）。
 
-3、[Dendron](https://www.dendron.so/)
+3、[cpx](https://github.com/11happy/cpx)
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052633.webp)
+Linux 基础命令 cp 的增强版，拷贝文件时带进度条，支持并发拷贝和断点续传，参见[介绍文章](https://linuxiac.com/cpx-introduced-as-a-faster-modern-replacement-for-linux-cp/)。
 
-VS Code 的笔记插件，将笔记的层级结构当作目录，并支持图表和内部链接，参见[介绍文章](https://www.xda-developers.com/how-i-use-dendron-to-organize-project-documentation-across-devices/)。
+4、[zerobrew](https://github.com/lucasgelfond/zerobrew)
 
-4、[CWD](https://github.com/anghunk/cwd)（Cloudflare Workers Discuss）
+homebrew 的替代品，号称可以将软件包的安装速度提高到5倍以上。
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012307.webp)
+5、[Isso](https://github.com/isso-comments/isso/)
 
-基于 Cloudflare Workers 的网站评论系统。（[@anghunk](https://github.com/ruanyf/weekly/issues/8801) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026013006.webp)
 
-5、[Mouse Gestures](https://github.com/Chance-fyi/mouse-gestures)
+Python 语言开发的网站留言系统，类似于 [Disqus](https://disqus.com/)。
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012304.webp)
+6、[dompdf](https://github.com/lmn1919/dompdf.js)
 
-开源的 Chrome 浏览器插件，使用鼠标滑动轨迹，完成各种浏览器操作。（[@Chance-fyi](https://github.com/ruanyf/weekly/issues/8779) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012903.webp)
 
-6、[relationship-ts](https://github.com/ExploringTheCodeWorld/relationship-ts)
+一个网页 JS 库，可以将某个 DOM 节点生成为非图片式的 PDF 文件。（[@lmn1919](https://github.com/ruanyf/weekly/issues/8865) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012306.webp)
+7、[wincron](https://github.com/ame-yu/wincron)
 
-一个 JS/TS 库，用来计算中国亲戚关系（称谓），[Demo 试用](https://example.qinyimo.cn/)。（[@ExploringTheCodeWorld](https://github.com/ruanyf/weekly/issues/8792) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026013001.webp)
 
-7、[Deck](https://github.com/yuzeguitarist/Deck)
+开源的 Windows 桌面应用，用来设置和管理计划任务（cron）。（[@ame-yu](https://github.com/ruanyf/weekly/issues/8874) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012403.webp)
+8、[copy-to-mp](https://github.com/Spute/obsidian-copy-to-mp)
 
-macOS 剪贴板管理的开源桌面应用，特点是有 Touch ID 保护和端到端加密。（[@yuzeguitarist](https://github.com/ruanyf/weekly/issues/8809) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026020301.webp)
 
-8、[EdgeTunnel](https://github.com/tianrking/Re_edgetunnel) (Refactored)
+Obsidian 的开源插件，一键将 Obsidian 笔记复制为微信公众号的格式。（[@Spute](https://github.com/ruanyf/weekly/issues/8908) 投稿）
 
-一个部署在 Cloudflare Workers 的隧道方案，代码进行了重构。（[@tianrking](https://github.com/ruanyf/weekly/issues/8828) 投稿）
+9、[在线视频压缩](https://videocompressors.com)
 
-9、[Mail Studio](https://github.com/wzc520pyfm/mail-studio)
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026020304.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012816.webp)
+纯前端的视频压缩，直接调用 GPU 进行硬件加速。（[@eyeandroid](https://github.com/ruanyf/weekly/issues/8915) 投稿）
 
-开源的可视化邮件编辑器，通过拖拽组件，生成响应式邮件模板，试用 [Demo](https://mail-studio-black.vercel.app/)。（[@wzc520pyfm](https://github.com/ruanyf/weekly/issues/8851) 投稿）
+10、[Diarum](https://github.com/songtianlun/diarum)
 
-10、[TermClean](https://github.com/daijinhai/TermClean)
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026020305.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012815.webp)
-
-macOS 开源应用，在终端界面显示各种软件包占用的磁盘空间，并提供清除软件包功能。（[@daijinhai](https://github.com/ruanyf/weekly/issues/8852) 投稿）
+开源的网页端日记应用，带有 AI 功能，将日记存入向量数据库，方便搜索和总结。（[@songtianlun](https://github.com/ruanyf/weekly/issues/8917) 投稿）
 
 
 ### 资源
 
 
-1、[Claude Code 实战](https://anthropic.skilljar.com/claude-code-in-action)（Claude Code in Action）
+1、[颈椎贪吃蛇](https://sneck.1link.fun/)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012401.webp)
+颈椎锻炼的网页小游戏，摄像头捕捉头部动作，来玩贪吃蛇游戏。（[@jwenjian](https://github.com/ruanyf/weekly/issues/8891) 投稿）
 
-Anthropic 官方的 Claude Code 免费入门教程，一共15节视频课，总长约1小时。
+2、[AntiRender](https://antirender.com/)
 
-2、[GitHub 证书](https://certificate.brendonmatos.com/)
+建筑效果图一般选在阳光明媚的春夏季，这个网站可以把效果图改在冬季的阴雨天，从而显示建筑的真实样貌。
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012303.webp)
-
-这个网站可以将某个用户2025年的 GitHub 活动，变成一张证书样式的图片。
-
-3、[Fontsniff](https://fontsniff.com/zh/font-identification)
-
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012502.webp)
-
-上传文本图片，自动识别使用了什么字体。（[@cosmicqbit](https://github.com/ruanyf/weekly/issues/8822) 投稿）
-
-4、[Future Style Periodic Table](https://github.com/SeanWong17/Future-Style-Periodic-Table)
-
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012405.webp)
-
-开源的可视化元素周期表，会展示核外电子排布。（[@SeanWong17](https://github.com/ruanyf/weekly/issues/8816) 投稿）
-
-5、[nihongo](https://yarn.gonomad.cn/assets/word.html)
-
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012404.webp)
-
-免费的日语学习平台，有词汇、听力、文章等。（[@FrankZhai367](https://github.com/ruanyf/weekly/issues/8811) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026013101.webp)
 
 
 ### 言论
@@ -120,33 +98,27 @@ Anthropic 官方的 Claude Code 免费入门教程，一共15节视频课，总�
 
 1、
 
-大多数组织习惯于收到系统警报后，直接质问：“是谁刚刚发布了代码变更？” 人们认定合并代码的人肯定了解它的工作原理，并且能够迅速修复问题。
+AI 带来的问题，不在于机器人即将到来，而在于你不知道自己究竟应该擅长什么。
 
-如果你部署的代码既不是某个人写的，也没有人真正理解它，会发生什么？
-
--- [《二十年的 DevOps 实践》](https://www.honeycomb.io/blog/you-had-one-job-why-twenty-years-of-devops-has-failed-to-do-it)
+-- [《你的工作并没有消失，只是不断缩小》](https://newsletter.jantegze.com/p/your-job-isnt-disappearing-its-shrinking)
 
 2、
 
-JavaDoc 之类的工具，可以从代码直接生成文档。我觉得，这种自动生成的文档，价值并不大，未必比直接阅读源代码容易。
+AI 公司总是说，由于他们的工具，人们可以专注于更高价值的工作。但是，没人能够定义，高价值工作究竟是什么工作。
 
-没有什么可以替代手写的、有组织的和人工编辑的文档。
-
--- [《什么是好的文档，以及如何编写》](https://stevelosh.com/blog/2013/09/teach-dont-tell/)
+-- [《你的工作并没有消失，只是不断缩小》](https://newsletter.jantegze.com/p/your-job-isnt-disappearing-its-shrinking)
 
 3、
 
-你学过的、使用过的每种语言和技术，即使会过时，也是有价值的，它们都会让下一种语言或技术更容易学习。
+如果你的朋友安装了 OpenClaw，就不要使用他们的电脑，你输入的任何密码都可能泄漏。
 
--- [《他们骗了你，开发软件真的很难》](https://toddle.dev/blog/they-lied-to-you-building-software-is-really-hard)
+-- [《OpenClaw 简直就是一颗定时炸弹》](https://cacm.acm.org/blogcacm/openclaw-a-k-a-moltbot-is-everywhere-all-at-once-and-a-disaster-waiting-to-happen/)
 
 4、
 
-习惯了 AI 编程之后，有一天，我震惊地发现，自己竟然如此轻易地掉进了陷阱。
+在我的国家，一瓶2升的当地自来水，加上焦糖色素和少许阿斯巴甜，售价竟然高达2.65美元，这着实令人惊讶。只要贴上“可口可乐”的标签，就可以升值这么多，比苹果还厉害。
 
-我已经变得对自己的代码库一无所知，也懒得自己去修复。只要用上了 AI，我就心情愉快，AI 让我感觉自己更聪明、更高效、掌控一切。一旦离开了 AI，我才发现这一切都只是幻觉。
-
--- [《有了 AI，我变得懒惰和愚蠢》](https://thomasorus.com/i-tried-coding-with-ai-i-became-lazy-and-stupid)
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=46816602)
 
 
 <!-- End -->

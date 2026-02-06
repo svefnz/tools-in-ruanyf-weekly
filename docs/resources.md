@@ -1,5 +1,19 @@
 # 资源
 
+## [科技爱好者周刊（第 384 期）：为什么软件股下跌](https://github.com/ruanyf/weekly/blob/master/docs/issue-384.md#资源)
+
+
+1、[颈椎贪吃蛇](https://sneck.1link.fun/)
+
+颈椎锻炼的网页小游戏，摄像头捕捉头部动作，来玩贪吃蛇游戏。（[@jwenjian](https://github.com/ruanyf/weekly/issues/8891) 投稿）
+
+2、[AntiRender](https://antirender.com/)
+
+建筑效果图一般选在阳光明媚的春夏季，这个网站可以把效果图改在冬季的阴雨天，从而显示建筑的真实样貌。
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026013101.webp)
+
+
 ## [科技爱好者周刊（第 383 期）：你是第几级 AI 编程](https://github.com/ruanyf/weekly/blob/master/docs/issue-383.md#资源)
 
 

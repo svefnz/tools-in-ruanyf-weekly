@@ -1,5 +1,33 @@
 # 言论
 
+## [科技爱好者周刊（第 384 期）：为什么软件股下跌](https://github.com/ruanyf/weekly/blob/master/docs/issue-384.md#言论)
+
+
+1、
+
+AI 带来的问题，不在于机器人即将到来，而在于你不知道自己究竟应该擅长什么。
+
+-- [《你的工作并没有消失，只是不断缩小》](https://newsletter.jantegze.com/p/your-job-isnt-disappearing-its-shrinking)
+
+2、
+
+AI 公司总是说，由于他们的工具，人们可以专注于更高价值的工作。但是，没人能够定义，高价值工作究竟是什么工作。
+
+-- [《你的工作并没有消失，只是不断缩小》](https://newsletter.jantegze.com/p/your-job-isnt-disappearing-its-shrinking)
+
+3、
+
+如果你的朋友安装了 OpenClaw，就不要使用他们的电脑，你输入的任何密码都可能泄漏。
+
+-- [《OpenClaw 简直就是一颗定时炸弹》](https://cacm.acm.org/blogcacm/openclaw-a-k-a-moltbot-is-everywhere-all-at-once-and-a-disaster-waiting-to-happen/)
+
+4、
+
+在我的国家，一瓶2升的当地自来水，加上焦糖色素和少许阿斯巴甜，售价竟然高达2.65美元，这着实令人惊讶。只要贴上“可口可乐”的标签，就可以升值这么多，比苹果还厉害。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=46816602)
+
+
 ## [科技爱好者周刊（第 383 期）：你是第几级 AI 编程](https://github.com/ruanyf/weekly/blob/master/docs/issue-383.md#言论)
 
 
