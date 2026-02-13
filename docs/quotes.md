@@ -1,5 +1,45 @@
 # 言论
 
+## [科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-385.md#言论)
+
+
+1、
+
+根据亚马逊老板贝佐斯的定义，小团队就是可以用两张大披萨喂饱的团队，也就是5到8人。
+
+AI 出现以后，小团队将变得只用一张大披萨就可以喂饱，只需要2到3人（含产品经理和设计师）。
+
+-- [《单披萨工程团队的兴起》](https://www.jampa.dev/p/the-rise-of-one-pizza-engineering)
+
+2、
+
+我们的规则是：（1）代码绝不能由人编写。（2）代码不得由人进行审查。（3）如果每位工程师每天消耗的 token 不到1000美元，那么就还有提升空间。
+
+-- [《StrongDM AI 的故事》](https://factory.strongdm.ai/)
+
+3、
+
+AI 热潮对于美国的影响是，电工越来越难找，一些建筑项目被迫暂停。
+
+亚马逊、谷歌、微软、Meta 和 Oracle 这五家公司，2026年的 AI 硬件投资，将相当于美国军费的四分之三。
+
+-- [《华盛顿邮报》](https://archive.ph/CBkDq)
+
+4、
+
+创业公司可以分成两种：O(n) 与 O(n^2)，其中的 n 表示时间。
+
+O(n) 公司随着时间大致呈线性增长，而 O(n^2) 公司会呈超线性的加速增长。
+
+-- [《O(n) 与 O(n^2) 创业企业》](https://rohan.ga/blog/startup_types/)
+
+5、
+
+进入物理学领域是我一生的最大错误，我应该选择计算机科学。虽然我还是不会有女朋友，但至少会赚得盆满钵满。
+
+-- [《锗的电子带结构》](https://pages.cs.wisc.edu/~kovar/hall.html)
+
+
 ## [科技爱好者周刊（第 384 期）：为什么软件股下跌](https://github.com/ruanyf/weekly/blob/master/docs/issue-384.md#言论)
 
 

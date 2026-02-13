@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-385.md#资源)
+
+
+1、[神经网络的视觉解释](https://visualrambling.space/neural-network/)
+
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026020703.webp)
+
+这个网站用动画解释“什么是神经网络”。
+
+2、[DevOps Engineer](https://labex.io)
+
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026020708.webp)
+
+一个 IT 课程网站，学习 Linux 和 DevOps 的实践技能，在网页上连接远程虚拟机进行交互操作，有中文版，免费额度是每天3次虚拟机。（[@huhuhuhang](https://github.com/ruanyf/weekly/issues/8949) 投稿）
+
+3、[理解机器学习：从理论到算法](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040503.webp)
+
+免费的英文电子书。
+
+
 ## [科技爱好者周刊（第 384 期）：为什么软件股下跌](https://github.com/ruanyf/weekly/blob/master/docs/issue-384.md#资源)
 
 

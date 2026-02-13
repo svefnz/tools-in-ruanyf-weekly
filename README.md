@@ -16,81 +16,93 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>384</currentVersion> -->
+<!-- <currentVersion>385</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 384 期）：为什么软件股下跌](https://github.com/ruanyf/weekly/blob/master/docs/issue-384.md)
+# [科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-385.md)
 ### 工具
 
 
-1、[Calibre](https://calibre-ebook.com/new-in/eighteen)
+1、[Subtrace](https://github.com/subtrace/subtrace)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026013004.webp)
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022206.webp)
 
-老牌的电子书管理系统，本周发布了9.0版，增加了书架视图，并引入了 AI 功能。
+一个开源的 Docker 应用，在浏览器里观察本机 Docker 容器的网络通信。
 
-2、[Gadgetbridge](https://gadgetbridge.org/)
+2、[ScrapeServ](https://github.com/goodreasonai/ScrapeServ)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026013005.webp)
+一个抓取网页截图的服务器，需要自己架设，通过 API 调用。
 
-开源的安卓应用，无需官方应用即可配对和管理各种智能设备（手表、手环、耳机等）。
+3、[QtScrcpy](https://github.com/barry-ran/QtScrcpy?tab=readme-ov-file)
 
-3、[cpx](https://github.com/11happy/cpx)
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042605.webp)
 
-Linux 基础命令 cp 的增强版，拷贝文件时带进度条，支持并发拷贝和断点续传，参见[介绍文章](https://linuxiac.com/cpx-introduced-as-a-faster-modern-replacement-for-linux-cp/)。
+电脑操作手机的工具，可以将手机投屏到电脑，然后用键盘和鼠标操作手机。
 
-4、[zerobrew](https://github.com/lucasgelfond/zerobrew)
+它是用 Qt 重新实现的 [scrcpy](https://github.com/Genymobile/scrcpy)。
 
-homebrew 的替代品，号称可以将软件包的安装速度提高到5倍以上。
+4、[ProxyPin](https://github.com/wanghongenpin/proxypin)
 
-5、[Isso](https://github.com/isso-comments/isso/)
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026020605.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026013006.webp)
+全平台的开源抓包软件，拦截和重写 HTTP(S) 流量。（[@wanghongenpin](https://github.com/ruanyf/weekly/issues/8934) 投稿）
 
-Python 语言开发的网站留言系统，类似于 [Disqus](https://disqus.com/)。
+5、[luci-theme-aurora](https://github.com/eamonxg/luci-theme-aurora)
 
-6、[dompdf](https://github.com/lmn1919/dompdf.js)
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026021041.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012903.webp)
+一款 OpenWrt LuCI 现代感主题，基于 Vite 和 Tailwind CSS。（[@eamonxg](https://github.com/ruanyf/weekly/issues/8974) 投稿）
 
-一个网页 JS 库，可以将某个 DOM 节点生成为非图片式的 PDF 文件。（[@lmn1919](https://github.com/ruanyf/weekly/issues/8865) 投稿）
+6、[BetterCapture](https://github.com/jsattler/BetterCapture)
 
-7、[wincron](https://github.com/ame-yu/wincron)
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026021101.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026013001.webp)
+开源的 Mac 录屏软件。（[@cosmicqbit](https://github.com/ruanyf/weekly/issues/8979) 投稿）
 
-开源的 Windows 桌面应用，用来设置和管理计划任务（cron）。（[@ame-yu](https://github.com/ruanyf/weekly/issues/8874) 投稿）
+7、[FeedCraft](https://github.com/Colin-XKL/FeedCraft)
 
-8、[copy-to-mp](https://github.com/Spute/obsidian-copy-to-mp)
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026021102.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202602/bg2026020301.webp)
+开源的 Web 服务，生成处理后的 RSS 源，可用来提取全文、翻译、摘要、过滤等。（[@Colin-XKL](https://github.com/ruanyf/weekly/issues/8980) 投稿）
 
-Obsidian 的开源插件，一键将 Obsidian 笔记复制为微信公众号的格式。（[@Spute](https://github.com/ruanyf/weekly/issues/8908) 投稿）
+8、[Extension.js](https://github.com/cezaraugusto/extension.js)
 
-9、[在线视频压缩](https://videocompressors.com)
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024050101.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202602/bg2026020304.webp)
+一个浏览器插件开发的工具库，帮你快速开发一个插件。
 
-纯前端的视频压缩，直接调用 GPU 进行硬件加速。（[@eyeandroid](https://github.com/ruanyf/weekly/issues/8915) 投稿）
+9、[Yaak](https://yaak.app/)
 
-10、[Diarum](https://github.com/songtianlun/diarum)
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051606.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202602/bg2026020305.webp)
+一个跨平台的桌面软件，可以用来调试 API（包括 REST、GraphQL 和 gRPC），是 Postman 的替代品。
 
-开源的网页端日记应用，带有 AI 功能，将日记存入向量数据库，方便搜索和总结。（[@songtianlun](https://github.com/ruanyf/weekly/issues/8917) 投稿）
+10、[Neko Master](https://github.com/foru17/neko-master)
+
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026021231.webp)
+
+网络流量的轻量级分析面板，展示与统计本地网关的流量数据。（[@foru17](https://github.com/ruanyf/weekly/issues/8995) 投稿）
 
 
 ### 资源
 
 
-1、[颈椎贪吃蛇](https://sneck.1link.fun/)
+1、[神经网络的视觉解释](https://visualrambling.space/neural-network/)
 
-颈椎锻炼的网页小游戏，摄像头捕捉头部动作，来玩贪吃蛇游戏。（[@jwenjian](https://github.com/ruanyf/weekly/issues/8891) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026020703.webp)
 
-2、[AntiRender](https://antirender.com/)
+这个网站用动画解释“什么是神经网络”。
 
-建筑效果图一般选在阳光明媚的春夏季，这个网站可以把效果图改在冬季的阴雨天，从而显示建筑的真实样貌。
+2、[DevOps Engineer](https://labex.io)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026013101.webp)
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026020708.webp)
+
+一个 IT 课程网站，学习 Linux 和 DevOps 的实践技能，在网页上连接远程虚拟机进行交互操作，有中文版，免费额度是每天3次虚拟机。（[@huhuhuhang](https://github.com/ruanyf/weekly/issues/8949) 投稿）
+
+3、[理解机器学习：从理论到算法](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040503.webp)
+
+免费的英文电子书。
 
 
 ### 言论
@@ -98,27 +110,39 @@ Obsidian 的开源插件，一键将 Obsidian 笔记复制为微信公众号的�
 
 1、
 
-AI 带来的问题，不在于机器人即将到来，而在于你不知道自己究竟应该擅长什么。
+根据亚马逊老板贝佐斯的定义，小团队就是可以用两张大披萨喂饱的团队，也就是5到8人。
 
--- [《你的工作并没有消失，只是不断缩小》](https://newsletter.jantegze.com/p/your-job-isnt-disappearing-its-shrinking)
+AI 出现以后，小团队将变得只用一张大披萨就可以喂饱，只需要2到3人（含产品经理和设计师）。
+
+-- [《单披萨工程团队的兴起》](https://www.jampa.dev/p/the-rise-of-one-pizza-engineering)
 
 2、
 
-AI 公司总是说，由于他们的工具，人们可以专注于更高价值的工作。但是，没人能够定义，高价值工作究竟是什么工作。
+我们的规则是：（1）代码绝不能由人编写。（2）代码不得由人进行审查。（3）如果每位工程师每天消耗的 token 不到1000美元，那么就还有提升空间。
 
--- [《你的工作并没有消失，只是不断缩小》](https://newsletter.jantegze.com/p/your-job-isnt-disappearing-its-shrinking)
+-- [《StrongDM AI 的故事》](https://factory.strongdm.ai/)
 
 3、
 
-如果你的朋友安装了 OpenClaw，就不要使用他们的电脑，你输入的任何密码都可能泄漏。
+AI 热潮对于美国的影响是，电工越来越难找，一些建筑项目被迫暂停。
 
--- [《OpenClaw 简直就是一颗定时炸弹》](https://cacm.acm.org/blogcacm/openclaw-a-k-a-moltbot-is-everywhere-all-at-once-and-a-disaster-waiting-to-happen/)
+亚马逊、谷歌、微软、Meta 和 Oracle 这五家公司，2026年的 AI 硬件投资，将相当于美国军费的四分之三。
+
+-- [《华盛顿邮报》](https://archive.ph/CBkDq)
 
 4、
 
-在我的国家，一瓶2升的当地自来水，加上焦糖色素和少许阿斯巴甜，售价竟然高达2.65美元，这着实令人惊讶。只要贴上“可口可乐”的标签，就可以升值这么多，比苹果还厉害。
+创业公司可以分成两种：O(n) 与 O(n^2)，其中的 n 表示时间。
 
--- [Hacker News 读者](https://news.ycombinator.com/item?id=46816602)
+O(n) 公司随着时间大致呈线性增长，而 O(n^2) 公司会呈超线性的加速增长。
+
+-- [《O(n) 与 O(n^2) 创业企业》](https://rohan.ga/blog/startup_types/)
+
+5、
+
+进入物理学领域是我一生的最大错误，我应该选择计算机科学。虽然我还是不会有女朋友，但至少会赚得盆满钵满。
+
+-- [《锗的电子带结构》](https://pages.cs.wisc.edu/~kovar/hall.html)
 
 
 <!-- End -->

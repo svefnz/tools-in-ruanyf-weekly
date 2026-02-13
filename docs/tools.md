@@ -1,5 +1,69 @@
 # 工具
 
+## [科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-385.md#工具)
+
+
+1、[Subtrace](https://github.com/subtrace/subtrace)
+
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022206.webp)
+
+一个开源的 Docker 应用，在浏览器里观察本机 Docker 容器的网络通信。
+
+2、[ScrapeServ](https://github.com/goodreasonai/ScrapeServ)
+
+一个抓取网页截图的服务器，需要自己架设，通过 API 调用。
+
+3、[QtScrcpy](https://github.com/barry-ran/QtScrcpy?tab=readme-ov-file)
+
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042605.webp)
+
+电脑操作手机的工具，可以将手机投屏到电脑，然后用键盘和鼠标操作手机。
+
+它是用 Qt 重新实现的 [scrcpy](https://github.com/Genymobile/scrcpy)。
+
+4、[ProxyPin](https://github.com/wanghongenpin/proxypin)
+
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026020605.webp)
+
+全平台的开源抓包软件，拦截和重写 HTTP(S) 流量。（[@wanghongenpin](https://github.com/ruanyf/weekly/issues/8934) 投稿）
+
+5、[luci-theme-aurora](https://github.com/eamonxg/luci-theme-aurora)
+
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026021041.webp)
+
+一款 OpenWrt LuCI 现代感主题，基于 Vite 和 Tailwind CSS。（[@eamonxg](https://github.com/ruanyf/weekly/issues/8974) 投稿）
+
+6、[BetterCapture](https://github.com/jsattler/BetterCapture)
+
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026021101.webp)
+
+开源的 Mac 录屏软件。（[@cosmicqbit](https://github.com/ruanyf/weekly/issues/8979) 投稿）
+
+7、[FeedCraft](https://github.com/Colin-XKL/FeedCraft)
+
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026021102.webp)
+
+开源的 Web 服务，生成处理后的 RSS 源，可用来提取全文、翻译、摘要、过滤等。（[@Colin-XKL](https://github.com/ruanyf/weekly/issues/8980) 投稿）
+
+8、[Extension.js](https://github.com/cezaraugusto/extension.js)
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024050101.webp)
+
+一个浏览器插件开发的工具库，帮你快速开发一个插件。
+
+9、[Yaak](https://yaak.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051606.webp)
+
+一个跨平台的桌面软件，可以用来调试 API（包括 REST、GraphQL 和 gRPC），是 Postman 的替代品。
+
+10、[Neko Master](https://github.com/foru17/neko-master)
+
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026021231.webp)
+
+网络流量的轻量级分析面板，展示与统计本地网关的流量数据。（[@foru17](https://github.com/ruanyf/weekly/issues/8995) 投稿）
+
+
 ## [科技爱好者周刊（第 384 期）：为什么软件股下跌](https://github.com/ruanyf/weekly/blob/master/docs/issue-384.md#工具)
 
 
